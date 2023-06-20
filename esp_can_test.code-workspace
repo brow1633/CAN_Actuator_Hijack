@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../esp_can_test"
+		},
+		{
+			"name": "esp32_rcmower_hack",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
